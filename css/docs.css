@@ -1,0 +1,39 @@
+   body{
+       margin: 0;
+       background-color: #111010;
+       font-family: -apple-system, BlinkMacSystemFont, 
+       'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
+        'Open Sans', 'Helvetica Neue', sans-serif;
+   }
+
+   .tit{
+       position: absolute;
+       text-align: center;
+       top: 30%;
+       width: 100%
+   }
+
+.tit h1{
+    color: whitesmoke;
+    font-size: 60px;
+    font-family: Fantasy;
+}  
+
+.tit h3{
+    color: wheat;
+    font-size: 30px;
+    font-family: 'Courier New';
+}
+
+.tit h2{
+    color: wheat;
+    font-size: 30px;
+    font-family: 'Courier New';
+
+}
+
+#particles-js{
+    height: 100vh;
+    background: #111010;
+}
+
